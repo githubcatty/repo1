@@ -1,0 +1,15 @@
+ Volume in drive C is OS
+ Volume Serial Number is A879-5A99
+
+ Directory of C:\Users\rashi\Desktop\GIT Folder
+
+20-02-2019  17:36    <DIR>          .
+20-02-2019  17:36    <DIR>          ..
+20-02-2019  17:36                 0 image.txt
+03-02-2019  02:56               387 index.html
+03-02-2019  02:56                 5 test.txt
+03-02-2019  04:07               434 test1.txt
+03-02-2019  22:37                 0 test2.tex
+03-02-2019  22:36                 0 test2.txt
+               6 File(s)            826 bytes
+               2 Dir(s)  58,663,108,608 bytes free
